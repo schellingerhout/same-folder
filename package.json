@@ -1,0 +1,23 @@
+{
+  "name": "same-folder",
+  "version": "1.0.0",
+  "description": "Returns true if two paths have the same endpoint.",
+  "main": "samepath.js",
+  "scripts": {
+    "test": "node testsamepath.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schellingerhout/same-path.git"
+  },
+  "keywords": [
+    "node",
+    "path"
+  ],
+  "author": "Jasper Schellingerhout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schellingerhout/same-path/issues"
+  },
+  "homepage": "https://github.com/schellingerhout/same-path#readme"
+}
