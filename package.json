@@ -1,5 +1,5 @@
 {
-  "name": "same-folder",
+  "name": "same-path",
   "version": "1.0.0",
   "description": "Returns true if two paths have the same endpoint.",
   "main": "samepath.js",
