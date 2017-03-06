@@ -10,8 +10,9 @@ or globally
 `npm install same-path -g`
 
 ## Usage sample 
-same folder, 2 command line parameters
+Simple program comparing 2 command line parameter directories
 
-    var samepath = require('./samepath')
+    var samepath = require('same-path')
     console.log (samepath(process.argv[2], process.argv[3]) )
+
 
