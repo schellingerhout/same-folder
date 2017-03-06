@@ -1,6 +1,14 @@
 # same-path
 Simple node module to check same path (including same destination relative paths and windows style casing)
 
+## Installation
+
+`npm install same-path`
+
+or globally
+
+`npm install same-path -g`
+
 ## Usage sample 
 same folder, 2 command line parameters
 
